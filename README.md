@@ -14,6 +14,12 @@ It demonstrates browser automation concepts using the **Rod** library, focusing 
 ⚠️ This project is strictly for **educational and technical evaluation purposes only**.
 
 ---
+## 🎥 Demonstration Video
+
+A walkthrough demonstration of the project setup, execution, and key features is available here:
+
+🔗 <https://drive.google.com/file/d/1sDVglD94vv1FJx3lAi4RJLy-S1bFzMsA/view?usp=sharing>
+
 
 ## Features Implemented
 
